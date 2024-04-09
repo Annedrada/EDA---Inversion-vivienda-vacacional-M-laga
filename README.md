@@ -1,4 +1,4 @@
-# EDA - Análisis de inversion en vivienda vacacional en Málaga, España
+# EDA - Análisis de inversion en vivienda vacacional
 
 Este analisis exploratorio de datos se centra en el proyecto de una pequeña inversión en una vivienda de alquiler vacacional en la ciudad de Málaga.
 
